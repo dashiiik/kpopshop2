@@ -1,1 +1,29 @@
+body {
+    font-family: cursive;
+}
+header{
+    color: rgb(255, 134, 170);
+    text-align: center;
+    background-color: pink;
+    padding: 20px;
+}
+h1{
+    color: blueviolet;
+    background-color: rgb(173, 145, 199);
+    text-align: center;
+}
+.blackpink{
+    color: palevioletred;
+    background-color: black;
+    text-align: center;
+}
+.straykids{
+    color: black;
+    background-color: rgb(41, 73, 43);
+    text-align: center;
+}
+footer{
+    color: aliceblue;
+    background-color: rgb(185, 185, 255);
+
 
